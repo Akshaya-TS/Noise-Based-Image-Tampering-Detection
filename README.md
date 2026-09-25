@@ -255,7 +255,7 @@ If the input is an RGB image, it is automatically converted into grayscale befor
 
 ### Input Screenshot
 
-**Paste the input screenshot here.**
+![Input Image](input.png)
 
 ---
 
@@ -327,7 +327,7 @@ The final output is therefore a **13-dimensional numerical feature vector**.
 
 ### Output Screenshot
 
-**Paste the output screenshot here.**
+![Output Image](output.png)
 
 ---
 
